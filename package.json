@@ -1,0 +1,31 @@
+{
+  "title": "Resume",
+  "name": "Peter Stanly",
+  "version": "4.0.0-beta.2",
+  "description": "Portfolio Website",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "browser-sync": "^3.0.2",
+    "devicons": "^1.8.0",
+    "gulp": "^5.0.0",
+    "gulp-header": "^2.0.9",
+    "gulp-sass": "^5.1.0",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.6",
+    "simple-line-icons": "^2.4.1"
+  },
+  "devDependencies": {
+    "gulp-clean-css": "3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "3.0.0"
+  }
+}
